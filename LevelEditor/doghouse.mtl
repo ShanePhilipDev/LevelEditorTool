@@ -1,0 +1,6 @@
+newmtl mat_doghouse
+illum 1
+map_Kd 198176.png
+newmtl mat_apple_bucket03
+illum 1
+map_Kd 203606.png

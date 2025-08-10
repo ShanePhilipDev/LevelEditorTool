@@ -1,0 +1,6 @@
+newmtl mat_thralldoomplate
+illum 1
+map_Kd thralldoomplate.png
+newmtl mat_armorreflect_rainbow
+illum 1
+map_Kd armorreflect_rainbow.png

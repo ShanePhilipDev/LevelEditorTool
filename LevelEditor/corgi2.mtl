@@ -1,0 +1,6 @@
+newmtl mat_corgi2
+illum 1
+map_Kd corgi2.png
+newmtl mat_armorreflect_hard
+illum 1
+map_Kd armorreflect_hard.png

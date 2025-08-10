@@ -1,0 +1,6 @@
+newmtl mat_pug_tan
+illum 1
+map_Kd pug_tan.png
+newmtl mat_armorreflect4
+illum 1
+map_Kd ..\..\item\objectcomponents\shield\armorreflect4.png
