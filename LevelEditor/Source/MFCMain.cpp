@@ -1,5 +1,5 @@
 #include "MFCMain.h"
-#include "resource.h"
+#include "../resource.h"
 #include "ObjectManipulator.h"
 
 

@@ -1,6 +1,6 @@
 #pragma once
 #include "afxdialogex.h"
-#include "resource.h"
+#include "../resource.h"
 #include "afxwin.h"
 #include "SceneObject.h"
 #include <vector>

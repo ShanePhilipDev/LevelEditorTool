@@ -1,5 +1,5 @@
 #include "MFCFrame.h"
-#include "resource.h"
+#include "../resource.h"
 
 
 

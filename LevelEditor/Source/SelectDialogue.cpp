@@ -1,7 +1,7 @@
 // SelectDialogue.cpp : implementation file
 //
 
-#include "stdafx.h"
+#include "../stdafx.h"
 #include "SelectDialogue.h"
 
 // SelectDialogue dialog

@@ -1,5 +1,5 @@
 #include "ToolMain.h"
-#include "resource.h"
+#include "../resource.h"
 #include <vector>
 #include <sstream>
 

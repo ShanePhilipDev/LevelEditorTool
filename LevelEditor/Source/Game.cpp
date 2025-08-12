@@ -2,7 +2,7 @@
 // Game.cpp
 //
 
-#include "pch.h"
+#include "../pch.h"
 #include "Game.h"
 #include "DisplayObject.h"
 #include <string>

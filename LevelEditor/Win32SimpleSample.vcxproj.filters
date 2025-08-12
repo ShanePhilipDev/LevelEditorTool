@@ -22,109 +22,137 @@
     <ClCompile Include="pch.cpp">
       <Filter>Renderer</Filter>
     </ClCompile>
-    <ClCompile Include="DeviceResources.cpp">
-      <Filter>Renderer</Filter>
-    </ClCompile>
-    <ClCompile Include="Game.cpp">
-      <Filter>Renderer</Filter>
-    </ClCompile>
-    <ClCompile Include="MFCMain.cpp">
-      <Filter>MFC</Filter>
-    </ClCompile>
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="ToolMain.cpp">
-      <Filter>Tool</Filter>
-    </ClCompile>
     <ClCompile Include="sqlite3.c">
       <Filter>SQLITE</Filter>
     </ClCompile>
-    <ClCompile Include="SceneObject.cpp">
-      <Filter>Tool</Filter>
+    <ClCompile Include="Source\MFCFrame.cpp">
+      <Filter>MFC</Filter>
     </ClCompile>
-    <ClCompile Include="ChunkObject.cpp">
-      <Filter>Tool</Filter>
+    <ClCompile Include="Source\MFCMain.cpp">
+      <Filter>MFC</Filter>
     </ClCompile>
-    <ClCompile Include="DisplayObject.cpp">
+    <ClCompile Include="Source\MFCRenderFrame.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SelectDialogue.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DeviceResources.cpp">
       <Filter>Renderer</Filter>
     </ClCompile>
-    <ClCompile Include="MFCFrame.cpp">
-      <Filter>MFC</Filter>
-    </ClCompile>
-    <ClCompile Include="MFCRenderFrame.cpp">
-      <Filter>MFC</Filter>
-    </ClCompile>
-    <ClCompile Include="DisplayChunk.cpp">
+    <ClCompile Include="Source\DisplayChunk.cpp">
       <Filter>Renderer</Filter>
     </ClCompile>
-    <ClCompile Include="SelectDialogue.cpp">
+    <ClCompile Include="Source\DisplayObject.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ChunkObject.cpp">
+      <Filter>Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SceneObject.cpp">
+      <Filter>Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ToolMain.cpp">
+      <Filter>Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\ObjectDialog.cpp">
       <Filter>MFC</Filter>
     </ClCompile>
-    <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="ObjectManipulator.cpp" />
-    <ClCompile Include="ObjectDialog.cpp" />
-    <ClCompile Include="CustomCEdit.cpp" />
-    <ClCompile Include="SettingsDialog.cpp" />
-    <ClCompile Include="TerrainSculpter.cpp" />
+    <ClCompile Include="Source\CustomCEdit.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SettingsDialog.cpp">
+      <Filter>MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Camera.cpp">
+      <Filter>Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ObjectManipulator.cpp">
+      <Filter>Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\TerrainSculpter.cpp">
+      <Filter>Tool</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DeviceResources.h">
-      <Filter>Renderer</Filter>
-    </ClInclude>
-    <ClInclude Include="Game.h">
-      <Filter>Renderer</Filter>
-    </ClInclude>
-    <ClInclude Include="StepTimer.h">
-      <Filter>Renderer</Filter>
-    </ClInclude>
     <ClInclude Include="pch.h">
       <Filter>Renderer</Filter>
     </ClInclude>
-    <ClInclude Include="MFCMain.h">
-      <Filter>MFC</Filter>
-    </ClInclude>
     <ClInclude Include="resource.h" />
-    <ClInclude Include="ToolMain.h">
-      <Filter>Tool</Filter>
-    </ClInclude>
     <ClInclude Include="sqlite3.h">
       <Filter>SQLITE</Filter>
     </ClInclude>
-    <ClInclude Include="SceneObject.h">
-      <Filter>Tool</Filter>
-    </ClInclude>
-    <ClInclude Include="ChunkObject.h">
-      <Filter>Tool</Filter>
-    </ClInclude>
-    <ClInclude Include="DisplayObject.h">
-      <Filter>Renderer</Filter>
-    </ClInclude>
-    <ClInclude Include="InputCommands.h">
-      <Filter>Tool</Filter>
-    </ClInclude>
-    <ClInclude Include="MFCFrame.h">
-      <Filter>MFC</Filter>
-    </ClInclude>
-    <ClInclude Include="MFCRenderFrame.h">
-      <Filter>MFC</Filter>
-    </ClInclude>
-    <ClInclude Include="DisplayChunk.h">
-      <Filter>Renderer</Filter>
-    </ClInclude>
     <ClInclude Include="stdafx.h" />
-    <ClInclude Include="SelectDialogue.h">
+    <ClInclude Include="Source\MFCFrame.h">
       <Filter>MFC</Filter>
     </ClInclude>
-    <ClInclude Include="Camera.h" />
-    <ClInclude Include="ObjectManipulator.h" />
-    <ClInclude Include="ObjectDialog.h" />
-    <ClInclude Include="CustomCEdit.h" />
-    <ClInclude Include="SettingsDialog.h" />
-    <ClInclude Include="TerrainSculpter.h" />
+    <ClInclude Include="Source\MFCMain.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\MFCRenderFrame.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SelectDialogue.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DeviceResources.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DisplayChunk.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DisplayObject.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\StepTimer.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ChunkObject.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\InputCommands.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SceneObject.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ToolMain.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ObjectDialog.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CustomCEdit.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SettingsDialog.h">
+      <Filter>MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Camera.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ObjectManipulator.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\TerrainSculpter.h">
+      <Filter>Tool</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="corgi2.cmo" />
-    <None Include="database\data\pug.cmo" />
+    <None Include="corgi2.cmo">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="database\data\pug.cmo">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Win32SimpleSample.rc">
@@ -138,12 +166,16 @@
     <Image Include="corgi2.png">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="corgi2.dds" />
     <Image Include="bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="corgi2.dds">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="database\data\Scene1.fbx" />
+    <Media Include="database\data\Scene1.fbx">
+      <Filter>Resource Files</Filter>
+    </Media>
   </ItemGroup>
 </Project>

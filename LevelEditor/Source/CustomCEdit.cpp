@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "../stdafx.h"
 #include "CustomCEdit.h"
 
 IMPLEMENT_DYNAMIC(CustomCEdit, CEdit)

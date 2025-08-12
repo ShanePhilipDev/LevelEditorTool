@@ -1,4 +1,4 @@
-#include "pch.h"
+#include "../pch.h"
 #include "InputCommands.h"
 #include "StepTimer.h"
 #include <vector>

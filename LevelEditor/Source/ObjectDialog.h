@@ -1,7 +1,7 @@
 #pragma once
 #include <afxdialogex.h>
 #include "afxwin.h"
-#include "resource.h"
+#include "../resource.h"
 #include "SceneObject.h"
 #include "ToolMain.h"
 #include "CustomCEdit.h"
